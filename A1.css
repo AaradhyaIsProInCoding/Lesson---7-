@@ -1,0 +1,10 @@
+h1{
+    color: blue; 
+}
+h3,p{
+    font-size: 39.9px;
+    background-color: aquamarine;
+}
+*{
+    font-family: 'Courier New', Courier, monospace;
+}
